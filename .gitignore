@@ -1,0 +1,9 @@
+# Ignore common build outputs
+*.o
+*.out
+*.exe
+a.out
+*.obj
+
+# If you have a specific executable name, e.g. myprog:
+myprog
